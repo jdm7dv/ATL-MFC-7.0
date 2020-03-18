@@ -1,0 +1,9 @@
+// ATL Julian date build numbers (YDDD) 
+#define _ATL_BUILD 8350
+#define _ATL_USER_BUILD "8350"
+#define _ATL_PRODUCT_VERSION 6,1,0,8350
+#define _ATL_FILE_VERSION 4,00,00
+#define _VCCTRLS_FILE_VERSION 1,00,00
+#define _ATL_USER_PRODVER "6.10.8350"
+#define _ATL_USER_FILEVER "4.00.8350"
+#define _VCCTRLS_USER_FILEVER "1.00.8350"

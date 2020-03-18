@@ -1,0 +1,14 @@
+EXPORTS
+	DllMain PRIVATE
+	AtlTraceRegister
+	AtlTraceUnregister
+	AtlTraceRegisterCategoryU
+	AtlTraceRegisterCategoryA
+	AtlTraceU
+	AtlTraceA
+	AtlTraceVU
+	AtlTraceVA
+	AtlTraceLoadSettingsA
+	AtlTraceLoadSettingsU
+	AtlTraceSaveSettingsA
+	AtlTraceSaveSettingsU
